@@ -15,6 +15,44 @@
 		D70C71791FFF255C0025EE52 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C71781FFF255C0025EE52 /* main.m */; };
 		D70C71831FFF255C0025EE52 /* TestDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C71821FFF255C0025EE52 /* TestDemoTests.m */; };
 		D70C718E1FFF255C0025EE52 /* TestDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C718D1FFF255C0025EE52 /* TestDemoUITests.m */; };
+		D70C71B01FFF25AA0025EE52 /* LLSearchView.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C719D1FFF25AA0025EE52 /* LLSearchView.m */; };
+		D70C71B11FFF25AA0025EE52 /* JFLocation.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C719F1FFF25AA0025EE52 /* JFLocation.m */; };
+		D70C71B21FFF25AA0025EE52 /* JFAreaDataManager.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C71A31FFF25AA0025EE52 /* JFAreaDataManager.m */; };
+		D70C71B31FFF25AA0025EE52 /* LLCityCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C71A61FFF25AA0025EE52 /* LLCityCollectionViewCell.m */; };
+		D70C71B41FFF25AA0025EE52 /* LLCityCollectionFlowLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C71A81FFF25AA0025EE52 /* LLCityCollectionFlowLayout.m */; };
+		D70C71B51FFF25AA0025EE52 /* LLCityTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C71AB1FFF25AA0025EE52 /* LLCityTableViewCell.m */; };
+		D70C71B61FFF25AA0025EE52 /* LLCityViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C71AC1FFF25AA0025EE52 /* LLCityViewController.m */; };
+		D70C71B71FFF25AA0025EE52 /* LLButton.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C71AD1FFF25AA0025EE52 /* LLButton.m */; };
+		D70C71B81FFF25AA0025EE52 /* shop_area.sqlite in Resources */ = {isa = PBXBuildFile; fileRef = D70C71AF1FFF25AA0025EE52 /* shop_area.sqlite */; };
+		D70C71D51FFF27190025EE52 /* UIButton+Chameleon.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C71BC1FFF27170025EE52 /* UIButton+Chameleon.m */; };
+		D70C71D61FFF27190025EE52 /* UIAppearance+Swift.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C71BE1FFF27170025EE52 /* UIAppearance+Swift.m */; };
+		D70C71D71FFF27190025EE52 /* UIColor+ChameleonPrivate.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C71BF1FFF27170025EE52 /* UIColor+ChameleonPrivate.m */; };
+		D70C71D81FFF27190025EE52 /* UIImage+ChameleonPrivate.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C71C41FFF27180025EE52 /* UIImage+ChameleonPrivate.m */; };
+		D70C71D91FFF27190025EE52 /* UIColor+Chameleon.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C71C61FFF27180025EE52 /* UIColor+Chameleon.m */; };
+		D70C71DA1FFF27190025EE52 /* UILabel+Chameleon.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C71C81FFF27180025EE52 /* UILabel+Chameleon.m */; };
+		D70C71DB1FFF27190025EE52 /* ChameleonConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C71CB1FFF27180025EE52 /* ChameleonConstants.m */; };
+		D70C71DC1FFF27190025EE52 /* UIViewController+Chameleon.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C71CE1FFF27180025EE52 /* UIViewController+Chameleon.m */; };
+		D70C71DD1FFF27190025EE52 /* NSArray+Chameleon.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C71CF1FFF27180025EE52 /* NSArray+Chameleon.m */; };
+		D70C71DE1FFF27190025EE52 /* UIView+ChameleonPrivate.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C71D01FFF27190025EE52 /* UIView+ChameleonPrivate.m */; };
+		D70C71DF1FFF27190025EE52 /* UINavigationController+Chameleon.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C71D21FFF27190025EE52 /* UINavigationController+Chameleon.m */; };
+		D70C71E01FFF27190025EE52 /* Chameleon_.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C71D41FFF27190025EE52 /* Chameleon_.m */; };
+		D70C71ED1FFF27EB0025EE52 /* FMDatabaseQueue.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C71E21FFF27EA0025EE52 /* FMDatabaseQueue.m */; };
+		D70C71EE1FFF27EB0025EE52 /* FMDatabaseAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C71E31FFF27EA0025EE52 /* FMDatabaseAdditions.m */; };
+		D70C71EF1FFF27EB0025EE52 /* FMDatabase.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C71E41FFF27EA0025EE52 /* FMDatabase.m */; };
+		D70C71F01FFF27EB0025EE52 /* FMResultSet.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C71E91FFF27EA0025EE52 /* FMResultSet.m */; };
+		D70C71F11FFF27EB0025EE52 /* FMDatabasePool.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C71EB1FFF27EB0025EE52 /* FMDatabasePool.m */; };
+		D70C720D1FFF284B0025EE52 /* MASConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C71F61FFF28480025EE52 /* MASConstraint.m */; };
+		D70C720E1FFF284B0025EE52 /* MASViewConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C71F81FFF28480025EE52 /* MASViewConstraint.m */; };
+		D70C720F1FFF284B0025EE52 /* MASViewAttribute.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C71F91FFF28480025EE52 /* MASViewAttribute.m */; };
+		D70C72101FFF284B0025EE52 /* NSArray+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C71FB1FFF28480025EE52 /* NSArray+MASAdditions.m */; };
+		D70C72111FFF284B0025EE52 /* MASLayoutConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C72001FFF28490025EE52 /* MASLayoutConstraint.m */; };
+		D70C72121FFF284B0025EE52 /* View+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C72011FFF28490025EE52 /* View+MASAdditions.m */; };
+		D70C72131FFF284B0025EE52 /* NSLayoutConstraint+MASDebugAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C72041FFF28490025EE52 /* NSLayoutConstraint+MASDebugAdditions.m */; };
+		D70C72141FFF284B0025EE52 /* MASCompositeConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C72051FFF28490025EE52 /* MASCompositeConstraint.m */; };
+		D70C72151FFF284B0025EE52 /* ViewController+MASAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C72091FFF284A0025EE52 /* ViewController+MASAdditions.m */; };
+		D70C72161FFF284B0025EE52 /* MASConstraintMaker.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C720A1FFF284A0025EE52 /* MASConstraintMaker.m */; };
+		D70C72171FFF284B0025EE52 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = D70C720C1FFF284A0025EE52 /* Info.plist */; };
+		D70C72201FFF2C750025EE52 /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = D70C721F1FFF2C750025EE52 /* MBProgressHUD.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +89,89 @@
 		D70C71891FFF255C0025EE52 /* TestDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D70C718D1FFF255C0025EE52 /* TestDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestDemoUITests.m; sourceTree = "<group>"; };
 		D70C718F1FFF255C0025EE52 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D70C719C1FFF25AA0025EE52 /* LLCityCollectionFlowLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LLCityCollectionFlowLayout.h; sourceTree = "<group>"; };
+		D70C719D1FFF25AA0025EE52 /* LLSearchView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LLSearchView.m; sourceTree = "<group>"; };
+		D70C719F1FFF25AA0025EE52 /* JFLocation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JFLocation.m; sourceTree = "<group>"; };
+		D70C71A01FFF25AA0025EE52 /* JFLocation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JFLocation.h; sourceTree = "<group>"; };
+		D70C71A21FFF25AA0025EE52 /* JFAreaDataManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JFAreaDataManager.h; sourceTree = "<group>"; };
+		D70C71A31FFF25AA0025EE52 /* JFAreaDataManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JFAreaDataManager.m; sourceTree = "<group>"; };
+		D70C71A41FFF25AA0025EE52 /* LLCityViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LLCityViewController.h; sourceTree = "<group>"; };
+		D70C71A51FFF25AA0025EE52 /* LLCityTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LLCityTableViewCell.h; sourceTree = "<group>"; };
+		D70C71A61FFF25AA0025EE52 /* LLCityCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LLCityCollectionViewCell.m; sourceTree = "<group>"; };
+		D70C71A71FFF25AA0025EE52 /* LLButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LLButton.h; sourceTree = "<group>"; };
+		D70C71A81FFF25AA0025EE52 /* LLCityCollectionFlowLayout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LLCityCollectionFlowLayout.m; sourceTree = "<group>"; };
+		D70C71A91FFF25AA0025EE52 /* LLSearchView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LLSearchView.h; sourceTree = "<group>"; };
+		D70C71AA1FFF25AA0025EE52 /* LLCityCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LLCityCollectionViewCell.h; sourceTree = "<group>"; };
+		D70C71AB1FFF25AA0025EE52 /* LLCityTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LLCityTableViewCell.m; sourceTree = "<group>"; };
+		D70C71AC1FFF25AA0025EE52 /* LLCityViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LLCityViewController.m; sourceTree = "<group>"; };
+		D70C71AD1FFF25AA0025EE52 /* LLButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LLButton.m; sourceTree = "<group>"; };
+		D70C71AF1FFF25AA0025EE52 /* shop_area.sqlite */ = {isa = PBXFileReference; lastKnownFileType = file; path = shop_area.sqlite; sourceTree = "<group>"; };
+		D70C71BA1FFF27170025EE52 /* UIButton+Chameleon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIButton+Chameleon.h"; sourceTree = "<group>"; };
+		D70C71BB1FFF27170025EE52 /* ChameleonMacros.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChameleonMacros.h; sourceTree = "<group>"; };
+		D70C71BC1FFF27170025EE52 /* UIButton+Chameleon.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIButton+Chameleon.m"; sourceTree = "<group>"; };
+		D70C71BD1FFF27170025EE52 /* UINavigationController+Chameleon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UINavigationController+Chameleon.h"; sourceTree = "<group>"; };
+		D70C71BE1FFF27170025EE52 /* UIAppearance+Swift.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIAppearance+Swift.m"; sourceTree = "<group>"; };
+		D70C71BF1FFF27170025EE52 /* UIColor+ChameleonPrivate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+ChameleonPrivate.m"; sourceTree = "<group>"; };
+		D70C71C01FFF27170025EE52 /* UILabel+Chameleon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UILabel+Chameleon.h"; sourceTree = "<group>"; };
+		D70C71C11FFF27170025EE52 /* UIViewController+Chameleon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+Chameleon.h"; sourceTree = "<group>"; };
+		D70C71C21FFF27170025EE52 /* UIAppearance+Swift.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIAppearance+Swift.h"; sourceTree = "<group>"; };
+		D70C71C31FFF27170025EE52 /* UIImage+ChameleonPrivate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+ChameleonPrivate.h"; sourceTree = "<group>"; };
+		D70C71C41FFF27180025EE52 /* UIImage+ChameleonPrivate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+ChameleonPrivate.m"; sourceTree = "<group>"; };
+		D70C71C51FFF27180025EE52 /* UIColor+Chameleon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+Chameleon.h"; sourceTree = "<group>"; };
+		D70C71C61FFF27180025EE52 /* UIColor+Chameleon.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+Chameleon.m"; sourceTree = "<group>"; };
+		D70C71C71FFF27180025EE52 /* ChameleonConstants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChameleonConstants.h; sourceTree = "<group>"; };
+		D70C71C81FFF27180025EE52 /* UILabel+Chameleon.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UILabel+Chameleon.m"; sourceTree = "<group>"; };
+		D70C71C91FFF27180025EE52 /* NSArray+Chameleon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+Chameleon.h"; sourceTree = "<group>"; };
+		D70C71CA1FFF27180025EE52 /* UIView+ChameleonPrivate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+ChameleonPrivate.h"; sourceTree = "<group>"; };
+		D70C71CB1FFF27180025EE52 /* ChameleonConstants.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChameleonConstants.m; sourceTree = "<group>"; };
+		D70C71CC1FFF27180025EE52 /* ChameleonEnums.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChameleonEnums.h; sourceTree = "<group>"; };
+		D70C71CD1FFF27180025EE52 /* Chameleon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Chameleon.h; sourceTree = "<group>"; };
+		D70C71CE1FFF27180025EE52 /* UIViewController+Chameleon.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+Chameleon.m"; sourceTree = "<group>"; };
+		D70C71CF1FFF27180025EE52 /* NSArray+Chameleon.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+Chameleon.m"; sourceTree = "<group>"; };
+		D70C71D01FFF27190025EE52 /* UIView+ChameleonPrivate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+ChameleonPrivate.m"; sourceTree = "<group>"; };
+		D70C71D11FFF27190025EE52 /* Chameleon_.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Chameleon_.h; sourceTree = "<group>"; };
+		D70C71D21FFF27190025EE52 /* UINavigationController+Chameleon.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UINavigationController+Chameleon.m"; sourceTree = "<group>"; };
+		D70C71D31FFF27190025EE52 /* UIColor+ChameleonPrivate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+ChameleonPrivate.h"; sourceTree = "<group>"; };
+		D70C71D41FFF27190025EE52 /* Chameleon_.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Chameleon_.m; sourceTree = "<group>"; };
+		D70C71E21FFF27EA0025EE52 /* FMDatabaseQueue.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMDatabaseQueue.m; sourceTree = "<group>"; };
+		D70C71E31FFF27EA0025EE52 /* FMDatabaseAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMDatabaseAdditions.m; sourceTree = "<group>"; };
+		D70C71E41FFF27EA0025EE52 /* FMDatabase.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMDatabase.m; sourceTree = "<group>"; };
+		D70C71E51FFF27EA0025EE52 /* FMResultSet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMResultSet.h; sourceTree = "<group>"; };
+		D70C71E61FFF27EA0025EE52 /* FMDatabase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMDatabase.h; sourceTree = "<group>"; };
+		D70C71E71FFF27EA0025EE52 /* FMDatabaseQueue.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMDatabaseQueue.h; sourceTree = "<group>"; };
+		D70C71E81FFF27EA0025EE52 /* FMDatabasePool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMDatabasePool.h; sourceTree = "<group>"; };
+		D70C71E91FFF27EA0025EE52 /* FMResultSet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMResultSet.m; sourceTree = "<group>"; };
+		D70C71EA1FFF27EB0025EE52 /* FMDB.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMDB.h; sourceTree = "<group>"; };
+		D70C71EB1FFF27EB0025EE52 /* FMDatabasePool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FMDatabasePool.m; sourceTree = "<group>"; };
+		D70C71EC1FFF27EB0025EE52 /* FMDatabaseAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FMDatabaseAdditions.h; sourceTree = "<group>"; };
+		D70C71F31FFF28470025EE52 /* MASConstraint+Private.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "MASConstraint+Private.h"; sourceTree = "<group>"; };
+		D70C71F41FFF28470025EE52 /* ViewController+MASAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "ViewController+MASAdditions.h"; sourceTree = "<group>"; };
+		D70C71F51FFF28470025EE52 /* MASLayoutConstraint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASLayoutConstraint.h; sourceTree = "<group>"; };
+		D70C71F61FFF28480025EE52 /* MASConstraint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASConstraint.m; sourceTree = "<group>"; };
+		D70C71F71FFF28480025EE52 /* MASViewAttribute.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASViewAttribute.h; sourceTree = "<group>"; };
+		D70C71F81FFF28480025EE52 /* MASViewConstraint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASViewConstraint.m; sourceTree = "<group>"; };
+		D70C71F91FFF28480025EE52 /* MASViewAttribute.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASViewAttribute.m; sourceTree = "<group>"; };
+		D70C71FA1FFF28480025EE52 /* MASCompositeConstraint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASCompositeConstraint.h; sourceTree = "<group>"; };
+		D70C71FB1FFF28480025EE52 /* NSArray+MASAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSArray+MASAdditions.m"; sourceTree = "<group>"; };
+		D70C71FC1FFF28480025EE52 /* MASConstraint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASConstraint.h; sourceTree = "<group>"; };
+		D70C71FD1FFF28490025EE52 /* NSLayoutConstraint+MASDebugAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSLayoutConstraint+MASDebugAdditions.h"; sourceTree = "<group>"; };
+		D70C71FE1FFF28490025EE52 /* NSArray+MASAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+MASAdditions.h"; sourceTree = "<group>"; };
+		D70C71FF1FFF28490025EE52 /* MASUtilities.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASUtilities.h; sourceTree = "<group>"; };
+		D70C72001FFF28490025EE52 /* MASLayoutConstraint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASLayoutConstraint.m; sourceTree = "<group>"; };
+		D70C72011FFF28490025EE52 /* View+MASAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "View+MASAdditions.m"; sourceTree = "<group>"; };
+		D70C72021FFF28490025EE52 /* View+MASAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "View+MASAdditions.h"; sourceTree = "<group>"; };
+		D70C72031FFF28490025EE52 /* Masonry.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Masonry.h; sourceTree = "<group>"; };
+		D70C72041FFF28490025EE52 /* NSLayoutConstraint+MASDebugAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSLayoutConstraint+MASDebugAdditions.m"; sourceTree = "<group>"; };
+		D70C72051FFF28490025EE52 /* MASCompositeConstraint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASCompositeConstraint.m; sourceTree = "<group>"; };
+		D70C72061FFF28490025EE52 /* MASViewConstraint.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASViewConstraint.h; sourceTree = "<group>"; };
+		D70C72071FFF284A0025EE52 /* MASConstraintMaker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MASConstraintMaker.h; sourceTree = "<group>"; };
+		D70C72081FFF284A0025EE52 /* View+MASShorthandAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "View+MASShorthandAdditions.h"; sourceTree = "<group>"; };
+		D70C72091FFF284A0025EE52 /* ViewController+MASAdditions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "ViewController+MASAdditions.m"; sourceTree = "<group>"; };
+		D70C720A1FFF284A0025EE52 /* MASConstraintMaker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASConstraintMaker.m; sourceTree = "<group>"; };
+		D70C720B1FFF284A0025EE52 /* NSArray+MASShorthandAdditions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSArray+MASShorthandAdditions.h"; sourceTree = "<group>"; };
+		D70C720C1FFF284A0025EE52 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D70C721E1FFF2C750025EE52 /* MBProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBProgressHUD.h; sourceTree = "<group>"; };
+		D70C721F1FFF2C750025EE52 /* MBProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBProgressHUD.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +222,11 @@
 		D70C71681FFF255C0025EE52 /* TestDemo */ = {
 			isa = PBXGroup;
 			children = (
+				D70C72211FFF2D500025EE52 /* MBProgressHUD */,
+				D70C71F21FFF28310025EE52 /* Masonry */,
+				D70C71E11FFF27D30025EE52 /* fmdb */,
+				D70C71B91FFF26E80025EE52 /* Chameleon */,
+				D70C719B1FFF25AA0025EE52 /* LLSearchCity */,
 				D70C71691FFF255C0025EE52 /* AppDelegate.h */,
 				D70C716A1FFF255C0025EE52 /* AppDelegate.m */,
 				D70C716C1FFF255C0025EE52 /* ViewController.h */,
@@ -130,6 +256,148 @@
 				D70C718F1FFF255C0025EE52 /* Info.plist */,
 			);
 			path = TestDemoUITests;
+			sourceTree = "<group>";
+		};
+		D70C719B1FFF25AA0025EE52 /* LLSearchCity */ = {
+			isa = PBXGroup;
+			children = (
+				D70C719E1FFF25AA0025EE52 /* Location */,
+				D70C71A11FFF25AA0025EE52 /* AreaDataManager */,
+				D70C71A51FFF25AA0025EE52 /* LLCityTableViewCell.h */,
+				D70C71AB1FFF25AA0025EE52 /* LLCityTableViewCell.m */,
+				D70C71A71FFF25AA0025EE52 /* LLButton.h */,
+				D70C71AD1FFF25AA0025EE52 /* LLButton.m */,
+				D70C719C1FFF25AA0025EE52 /* LLCityCollectionFlowLayout.h */,
+				D70C71A81FFF25AA0025EE52 /* LLCityCollectionFlowLayout.m */,
+				D70C71A91FFF25AA0025EE52 /* LLSearchView.h */,
+				D70C719D1FFF25AA0025EE52 /* LLSearchView.m */,
+				D70C71AA1FFF25AA0025EE52 /* LLCityCollectionViewCell.h */,
+				D70C71A61FFF25AA0025EE52 /* LLCityCollectionViewCell.m */,
+				D70C71A41FFF25AA0025EE52 /* LLCityViewController.h */,
+				D70C71AC1FFF25AA0025EE52 /* LLCityViewController.m */,
+				D70C71AE1FFF25AA0025EE52 /* AreaDB */,
+			);
+			path = LLSearchCity;
+			sourceTree = "<group>";
+		};
+		D70C719E1FFF25AA0025EE52 /* Location */ = {
+			isa = PBXGroup;
+			children = (
+				D70C71A01FFF25AA0025EE52 /* JFLocation.h */,
+				D70C719F1FFF25AA0025EE52 /* JFLocation.m */,
+			);
+			path = Location;
+			sourceTree = "<group>";
+		};
+		D70C71A11FFF25AA0025EE52 /* AreaDataManager */ = {
+			isa = PBXGroup;
+			children = (
+				D70C71A21FFF25AA0025EE52 /* JFAreaDataManager.h */,
+				D70C71A31FFF25AA0025EE52 /* JFAreaDataManager.m */,
+			);
+			path = AreaDataManager;
+			sourceTree = "<group>";
+		};
+		D70C71AE1FFF25AA0025EE52 /* AreaDB */ = {
+			isa = PBXGroup;
+			children = (
+				D70C71AF1FFF25AA0025EE52 /* shop_area.sqlite */,
+			);
+			path = AreaDB;
+			sourceTree = "<group>";
+		};
+		D70C71B91FFF26E80025EE52 /* Chameleon */ = {
+			isa = PBXGroup;
+			children = (
+				D70C71D41FFF27190025EE52 /* Chameleon_.m */,
+				D70C71CD1FFF27180025EE52 /* Chameleon.h */,
+				D70C71C51FFF27180025EE52 /* UIColor+Chameleon.h */,
+				D70C71C01FFF27170025EE52 /* UILabel+Chameleon.h */,
+				D70C71C81FFF27180025EE52 /* UILabel+Chameleon.m */,
+				D70C71D11FFF27190025EE52 /* Chameleon_.h */,
+				D70C71C71FFF27180025EE52 /* ChameleonConstants.h */,
+				D70C71CB1FFF27180025EE52 /* ChameleonConstants.m */,
+				D70C71CC1FFF27180025EE52 /* ChameleonEnums.h */,
+				D70C71BB1FFF27170025EE52 /* ChameleonMacros.h */,
+				D70C71C91FFF27180025EE52 /* NSArray+Chameleon.h */,
+				D70C71CF1FFF27180025EE52 /* NSArray+Chameleon.m */,
+				D70C71C21FFF27170025EE52 /* UIAppearance+Swift.h */,
+				D70C71BE1FFF27170025EE52 /* UIAppearance+Swift.m */,
+				D70C71BA1FFF27170025EE52 /* UIButton+Chameleon.h */,
+				D70C71BC1FFF27170025EE52 /* UIButton+Chameleon.m */,
+				D70C71C61FFF27180025EE52 /* UIColor+Chameleon.m */,
+				D70C71D31FFF27190025EE52 /* UIColor+ChameleonPrivate.h */,
+				D70C71D21FFF27190025EE52 /* UINavigationController+Chameleon.m */,
+				D70C71BF1FFF27170025EE52 /* UIColor+ChameleonPrivate.m */,
+				D70C71C31FFF27170025EE52 /* UIImage+ChameleonPrivate.h */,
+				D70C71C41FFF27180025EE52 /* UIImage+ChameleonPrivate.m */,
+				D70C71BD1FFF27170025EE52 /* UINavigationController+Chameleon.h */,
+				D70C71CA1FFF27180025EE52 /* UIView+ChameleonPrivate.h */,
+				D70C71D01FFF27190025EE52 /* UIView+ChameleonPrivate.m */,
+				D70C71C11FFF27170025EE52 /* UIViewController+Chameleon.h */,
+				D70C71CE1FFF27180025EE52 /* UIViewController+Chameleon.m */,
+			);
+			path = Chameleon;
+			sourceTree = "<group>";
+		};
+		D70C71E11FFF27D30025EE52 /* fmdb */ = {
+			isa = PBXGroup;
+			children = (
+				D70C71E61FFF27EA0025EE52 /* FMDatabase.h */,
+				D70C71E41FFF27EA0025EE52 /* FMDatabase.m */,
+				D70C71EC1FFF27EB0025EE52 /* FMDatabaseAdditions.h */,
+				D70C71E31FFF27EA0025EE52 /* FMDatabaseAdditions.m */,
+				D70C71E81FFF27EA0025EE52 /* FMDatabasePool.h */,
+				D70C71EB1FFF27EB0025EE52 /* FMDatabasePool.m */,
+				D70C71E71FFF27EA0025EE52 /* FMDatabaseQueue.h */,
+				D70C71E21FFF27EA0025EE52 /* FMDatabaseQueue.m */,
+				D70C71EA1FFF27EB0025EE52 /* FMDB.h */,
+				D70C71E51FFF27EA0025EE52 /* FMResultSet.h */,
+				D70C71E91FFF27EA0025EE52 /* FMResultSet.m */,
+			);
+			path = fmdb;
+			sourceTree = "<group>";
+		};
+		D70C71F21FFF28310025EE52 /* Masonry */ = {
+			isa = PBXGroup;
+			children = (
+				D70C720C1FFF284A0025EE52 /* Info.plist */,
+				D70C71FA1FFF28480025EE52 /* MASCompositeConstraint.h */,
+				D70C72051FFF28490025EE52 /* MASCompositeConstraint.m */,
+				D70C71FC1FFF28480025EE52 /* MASConstraint.h */,
+				D70C71F61FFF28480025EE52 /* MASConstraint.m */,
+				D70C71F31FFF28470025EE52 /* MASConstraint+Private.h */,
+				D70C72071FFF284A0025EE52 /* MASConstraintMaker.h */,
+				D70C720A1FFF284A0025EE52 /* MASConstraintMaker.m */,
+				D70C71F51FFF28470025EE52 /* MASLayoutConstraint.h */,
+				D70C72001FFF28490025EE52 /* MASLayoutConstraint.m */,
+				D70C72031FFF28490025EE52 /* Masonry.h */,
+				D70C71FF1FFF28490025EE52 /* MASUtilities.h */,
+				D70C71F71FFF28480025EE52 /* MASViewAttribute.h */,
+				D70C71F91FFF28480025EE52 /* MASViewAttribute.m */,
+				D70C72061FFF28490025EE52 /* MASViewConstraint.h */,
+				D70C71F81FFF28480025EE52 /* MASViewConstraint.m */,
+				D70C71FE1FFF28490025EE52 /* NSArray+MASAdditions.h */,
+				D70C71FB1FFF28480025EE52 /* NSArray+MASAdditions.m */,
+				D70C720B1FFF284A0025EE52 /* NSArray+MASShorthandAdditions.h */,
+				D70C71FD1FFF28490025EE52 /* NSLayoutConstraint+MASDebugAdditions.h */,
+				D70C72041FFF28490025EE52 /* NSLayoutConstraint+MASDebugAdditions.m */,
+				D70C72021FFF28490025EE52 /* View+MASAdditions.h */,
+				D70C72011FFF28490025EE52 /* View+MASAdditions.m */,
+				D70C72081FFF284A0025EE52 /* View+MASShorthandAdditions.h */,
+				D70C71F41FFF28470025EE52 /* ViewController+MASAdditions.h */,
+				D70C72091FFF284A0025EE52 /* ViewController+MASAdditions.m */,
+			);
+			path = Masonry;
+			sourceTree = "<group>";
+		};
+		D70C72211FFF2D500025EE52 /* MBProgressHUD */ = {
+			isa = PBXGroup;
+			children = (
+				D70C721E1FFF2C750025EE52 /* MBProgressHUD.h */,
+				D70C721F1FFF2C750025EE52 /* MBProgressHUD.m */,
+			);
+			path = MBProgressHUD;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -240,6 +508,8 @@
 			files = (
 				D70C71761FFF255C0025EE52 /* LaunchScreen.storyboard in Resources */,
 				D70C71731FFF255C0025EE52 /* Assets.xcassets in Resources */,
+				D70C71B81FFF25AA0025EE52 /* shop_area.sqlite in Resources */,
+				D70C72171FFF284B0025EE52 /* Info.plist in Resources */,
 				D70C71711FFF255C0025EE52 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -265,9 +535,45 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D70C71B11FFF25AA0025EE52 /* JFLocation.m in Sources */,
 				D70C716E1FFF255C0025EE52 /* ViewController.m in Sources */,
+				D70C71D91FFF27190025EE52 /* UIColor+Chameleon.m in Sources */,
+				D70C71D71FFF27190025EE52 /* UIColor+ChameleonPrivate.m in Sources */,
+				D70C72141FFF284B0025EE52 /* MASCompositeConstraint.m in Sources */,
+				D70C71EE1FFF27EB0025EE52 /* FMDatabaseAdditions.m in Sources */,
+				D70C71B41FFF25AA0025EE52 /* LLCityCollectionFlowLayout.m in Sources */,
+				D70C71B31FFF25AA0025EE52 /* LLCityCollectionViewCell.m in Sources */,
+				D70C72111FFF284B0025EE52 /* MASLayoutConstraint.m in Sources */,
+				D70C71D51FFF27190025EE52 /* UIButton+Chameleon.m in Sources */,
 				D70C71791FFF255C0025EE52 /* main.m in Sources */,
+				D70C71DE1FFF27190025EE52 /* UIView+ChameleonPrivate.m in Sources */,
+				D70C71DC1FFF27190025EE52 /* UIViewController+Chameleon.m in Sources */,
+				D70C71DD1FFF27190025EE52 /* NSArray+Chameleon.m in Sources */,
+				D70C71DA1FFF27190025EE52 /* UILabel+Chameleon.m in Sources */,
+				D70C71DF1FFF27190025EE52 /* UINavigationController+Chameleon.m in Sources */,
+				D70C71E01FFF27190025EE52 /* Chameleon_.m in Sources */,
+				D70C720E1FFF284B0025EE52 /* MASViewConstraint.m in Sources */,
+				D70C71F01FFF27EB0025EE52 /* FMResultSet.m in Sources */,
+				D70C71EF1FFF27EB0025EE52 /* FMDatabase.m in Sources */,
+				D70C72151FFF284B0025EE52 /* ViewController+MASAdditions.m in Sources */,
+				D70C71B01FFF25AA0025EE52 /* LLSearchView.m in Sources */,
+				D70C71B21FFF25AA0025EE52 /* JFAreaDataManager.m in Sources */,
+				D70C71B71FFF25AA0025EE52 /* LLButton.m in Sources */,
+				D70C72121FFF284B0025EE52 /* View+MASAdditions.m in Sources */,
+				D70C72131FFF284B0025EE52 /* NSLayoutConstraint+MASDebugAdditions.m in Sources */,
+				D70C71ED1FFF27EB0025EE52 /* FMDatabaseQueue.m in Sources */,
+				D70C720F1FFF284B0025EE52 /* MASViewAttribute.m in Sources */,
+				D70C71DB1FFF27190025EE52 /* ChameleonConstants.m in Sources */,
+				D70C720D1FFF284B0025EE52 /* MASConstraint.m in Sources */,
+				D70C71D61FFF27190025EE52 /* UIAppearance+Swift.m in Sources */,
 				D70C716B1FFF255C0025EE52 /* AppDelegate.m in Sources */,
+				D70C71B51FFF25AA0025EE52 /* LLCityTableViewCell.m in Sources */,
+				D70C72161FFF284B0025EE52 /* MASConstraintMaker.m in Sources */,
+				D70C72201FFF2C750025EE52 /* MBProgressHUD.m in Sources */,
+				D70C72101FFF284B0025EE52 /* NSArray+MASAdditions.m in Sources */,
+				D70C71F11FFF27EB0025EE52 /* FMDatabasePool.m in Sources */,
+				D70C71B61FFF25AA0025EE52 /* LLCityViewController.m in Sources */,
+				D70C71D81FFF27190025EE52 /* UIImage+ChameleonPrivate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
